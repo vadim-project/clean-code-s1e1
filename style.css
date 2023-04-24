@@ -21,9 +21,11 @@
 }
 
 @media (max-width:768px) {
+
   .header {
     text-align: center;
   }
+
 }
 
 .main-elements {
@@ -66,7 +68,6 @@ ul {
 }
 
 /* Heading */
-
 .header-name {
   color: #333;
   font-weight: 700;
@@ -110,7 +111,6 @@ ul {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
