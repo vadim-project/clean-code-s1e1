@@ -49,8 +49,8 @@ ul {
   padding: 0;
 }
 
-.add,
-.edit,
+.add, 
+.edit, 
 .remove {
   background: none;
   border: 0px;
@@ -61,8 +61,8 @@ ul {
   cursor: pointer;
 }
 
-.add:hover,
-.edit:hover,
+.add:hover, 
+.edit:hover, 
 .remove:hover {
   color: #3a3A3a;
 }
