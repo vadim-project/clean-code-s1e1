@@ -49,8 +49,8 @@ ul {
   padding: 0;
 }
 
-.new-task__add, 
-.list-item__edit, 
+.new-task__add,
+.list-item__edit,
 .list-item__remove {
   background: none;
   border: 0px;
@@ -61,8 +61,8 @@ ul {
   cursor: pointer;
 }
 
-.new-task__add:hover, 
-.list-item__edit:hover, 
+.new-task__add:hover,
+.list-item__edit:hover,
 .list-item__remove:hover {
   color: #3a3A3a;
 }
